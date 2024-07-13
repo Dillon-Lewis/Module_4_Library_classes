@@ -1,0 +1,26 @@
+1. Create a simple main menu that is going to call upon classes to function properly
+2. From main menu, make subfunctions named Book, User, Author
+3. Create class for each subfuction that preforms user selected tasks
+
+
+4. Searching for a author, book, or member
+    -user input either title, author, or member name
+    -compare that user input and make sure it is found in the system
+    -once found, pull that information and display it to the user
+
+5. Adding a entry
+    -create a list with other entries or empty
+    -take user inputs for all the information we need
+    -append that information to my initial list
+    -print that it has been added
+
+
+
+
+
+Questions to ask:
+- is it best practice to set up my authors, books, and members as lists or dictionaries
+    -That should answer the adding new entries (author, book, new member)
+    -When it comes to searching for an entry, if a list use index and if it is a dictionaries what method is best?
+    -I dont think indexing will work
+    
